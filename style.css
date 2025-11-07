@@ -1,0 +1,35 @@
+body{ 
+    font-family: Arial; background-color: tomato; 
+}
+#kozep{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+    background-color: salmon;
+}
+#lista{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.jobb{
+    float: right;
+    width: 300px;
+}
+.nevek{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.iras{
+    font-style: italic;
+}
+.forras{
+    text-align: center;
+    font-size: 8pt;
+
+}
+.forrasok{
+    text-align: center;
+    font-size: 8pt;
+    margin-top: 200px;
+}
